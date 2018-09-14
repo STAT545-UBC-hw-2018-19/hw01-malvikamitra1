@@ -14,15 +14,15 @@ gif
 
 # For me weekdays be like:
 
-|  **Monday**     |             |
+|  **Monday**     |   jnjd          |
 ---------------------------------
-|  **Tuesday**    |             |
+|  **Tuesday**    |       dcj      |
 ---------------------------------
-|  **Wednesday**  |             |
+|  **Wednesday**  |          hxba   |
 ---------------------------------
-|  **Thursday**   |             |
+|  **Thursday**   |       sxx      |
 ---------------------------------
-|  **Friday**     |             |
+|  **Friday**     |      sx       |
 
 # And weekends are all about:
 
