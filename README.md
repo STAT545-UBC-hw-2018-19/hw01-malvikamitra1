@@ -55,6 +55,8 @@ photo
 
 [STAT545 Main Page](http://stat545.com/)
 
+## **My simple coding with math skills**
+
 ```R
 number <- function(x) {
     # Determines whether your function is odd or even
