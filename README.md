@@ -25,6 +25,12 @@ gif
 |  **Friday**     |              |
 ---------------------------------
 
+|    **Item**    | **Status** |
+|----------------|------------|
+| Finished-ness  | :thumbsup: |
+| Happiness      | :bowtie:   |
+| Markdowny-ness | :octocat:  |
+
 # And weekends are all about:
 
 - Studies
