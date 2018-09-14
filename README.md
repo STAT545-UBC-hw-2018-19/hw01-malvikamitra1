@@ -28,6 +28,6 @@ and weekends
 
 + laundry
 
-link it
+##**Link it**
 
 [STAT545 Main Page](http://stat545.com/)
