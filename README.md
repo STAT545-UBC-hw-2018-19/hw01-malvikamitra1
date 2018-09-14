@@ -3,17 +3,22 @@
 **Hey there** 
 
 I am Malvika Mitra.
+
+For starters I believe in 
+![Alt Text](https://www.brainyquote.com/topics/motivational)
+
 I am a first year graduate student at the **Department of Statistics**.
 
 Completed my undergrad this May from Delhi University, India.
+gif
 
 For me weekdays be like:
+table n emos
 
 
 
 
-
-and weekends consists of:
+and weekends 
 
 - Studies
 
@@ -23,3 +28,5 @@ and weekends consists of:
 
 + laundry
 
+link it
+link
