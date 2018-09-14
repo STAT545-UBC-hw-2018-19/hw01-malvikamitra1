@@ -37,9 +37,9 @@ Completed my undergrad this May from University of Delhi, India.
  
      1.Veggies
  
-      2.Fruits
+     2.Fruits
  
-        3.Bread and Meat
+     3.Bread and Meat
 
 + Netflix
 
@@ -49,8 +49,4 @@ Completed my undergrad this May from University of Delhi, India.
 [STAT545 Main Page](http://stat545.com/)
 
 
-```javascript
-function test() {
- console.log("look ma’, no spaces");
-}
-```
+
