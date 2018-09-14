@@ -1,3 +1,8 @@
+This Repository consists of:
+
+A brief introduction about me
+A R markdown exploration
+
 # *All About Meee*
 
 **Hey there** :wave:
