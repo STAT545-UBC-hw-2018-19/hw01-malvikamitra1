@@ -1,9 +1,10 @@
-This Repository consists of:
+# This Repository consists of:
 
-A brief introduction about me
-A R markdown exploration
+A brief introduction about me.
 
-# *All About Meee*
+A R markdown exploration.
+
+## *All About Meee*
 
 **Hey there** :wave:
 
@@ -15,13 +16,13 @@ Completed my undergrad this May from University of Delhi, India.
 gif
 ![]()
 
-# My Mantra in Life
+## My Mantra in Life
 photo
 ![alt text]()
 
 
 
-# Weekday moods be like:
+## Weekday moods be like:
 
 |    **Item**    | **Status**    |
 |----------------|------------   |
@@ -31,7 +32,7 @@ photo
 | **Thursday**   |  :worried:    |
 | **Friday**     |  :tired_face: |
 
-# And weekends are all about:
+## And weekends are all about:
 
 - Studies
 
