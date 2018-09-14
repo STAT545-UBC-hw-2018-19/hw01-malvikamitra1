@@ -13,16 +13,17 @@ Completed my undergrad this May from University of Delhi, India.
 gif
 
 # For me weekdays be like:
-
-|  **Monday**     |   jnjd          |
 ---------------------------------
-|  **Tuesday**    |       dcj      |
+|  **Monday**     |              |
 ---------------------------------
-|  **Wednesday**  |          hxba   |
+|  **Tuesday**    |              |
 ---------------------------------
-|  **Thursday**   |       sxx      |
+|  **Wednesday**  |              |
 ---------------------------------
-|  **Friday**     |      sx       |
+|  **Thursday**   |              |
+---------------------------------
+|  **Friday**     |              |
+---------------------------------
 
 # And weekends are all about:
 
