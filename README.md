@@ -17,7 +17,7 @@ gif
 ![]()
 
 ## My Mantra in Life
-![alt text](https://goo.gl/images/bWA6AU.png)
+![alt text](https://goo.gl/images/bWA6AU.png "life.")
 
 
 
