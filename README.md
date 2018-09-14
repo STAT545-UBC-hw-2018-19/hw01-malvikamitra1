@@ -27,9 +27,9 @@ gif
 
 |    **Item**    | **Status** |
 |----------------|------------|
-| Finished-ness  | :thumbsup: |
-| Happiness      | :bowtie:   |
-| Markdowny-ness | :octocat:  |
+| **Monday**     | :thumbsup: |
+| **Tuesday**    | :bowtie:   |
+| **Wednesday**  | :octocat:  |
 
 # And weekends are all about:
 
