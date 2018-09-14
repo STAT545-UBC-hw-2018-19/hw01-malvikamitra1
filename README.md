@@ -30,6 +30,7 @@ gif
 | **Monday**     | :thumbsup: |
 | **Tuesday**    | :bowtie:   |
 | **Wednesday**  | :octocat:  |
+| **Thursday**   |            |
 
 # And weekends are all about:
 
