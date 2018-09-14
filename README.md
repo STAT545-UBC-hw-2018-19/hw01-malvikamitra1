@@ -1,4 +1,4 @@
-## *All About Meee*
+# *All About Meee*
 
 **Hey there** :wave:
 
@@ -27,6 +27,8 @@ gif
 # And weekends are all about:
 
 - Studies
+
+- Homework
 
 - Laundry
 
