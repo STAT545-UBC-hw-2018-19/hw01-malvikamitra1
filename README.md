@@ -2,9 +2,9 @@
 
 **Hey there** 
 
-I am Malvika Mitra.
+I am ## ** *Malvika Mitra**.
 
-For starters I believe in 
+# My Mantra in Life
 ![alt text](15369015173045416817657701370132.jpg)
 
 I am a first year graduate student at the **Department of Statistics**.
