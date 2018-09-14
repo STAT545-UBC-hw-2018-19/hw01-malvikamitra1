@@ -13,7 +13,7 @@ I am  **Malvika Mitra**.
 I am a first year graduate student at the **Department of Statistics**.
 
 Completed my undergrad this May from University of Delhi, India.
-![](https://giphy.com/explore/graduation)
+![](https://giphy.com/explore/graduation.gif)
 
 ## My Mantra in Life
 ![alt text](https://www.brainyquote.com/photos_tr/en/e/eleanorroosevelt/143006/eleanorroosevelt1.jpg "mantra in life.")
