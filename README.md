@@ -7,7 +7,8 @@ I am  **Malvika Mitra**.
 I am a first year graduate student at the **Department of Statistics**.
 
 Completed my undergrad this May from University of Delhi, India.
-gif
+
+![](https://i.imgur.com/zNssDtS.gif)
 
 # My Mantra in Life
 ![alt text]()
