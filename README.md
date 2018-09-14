@@ -31,7 +31,9 @@ gif
 + Grocery shopping
  
  1.Veggies
+ 
  2.Fruits
+ 
  3.Bread and Meat
 
 + Netflix
