@@ -15,11 +15,11 @@ For me weekdays be like:
 
 and weekends consists of:
 
--Studies
+- Studies
 
--netflix
+- netflix
 
-+grocerry shopping
++ grocerry shopping
 
-+laundry
++ laundry
 
