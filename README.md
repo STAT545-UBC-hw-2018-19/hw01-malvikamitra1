@@ -29,4 +29,5 @@ and weekends
 + laundry
 
 link it
-[GitHub](http://github.com)
+
+[STAT545 Main Page](http://stat545.com/)
