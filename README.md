@@ -9,24 +9,26 @@ For starters I believe in
 
 I am a first year graduate student at the **Department of Statistics**.
 
-Completed my undergrad this May from Delhi University, India.
+Completed my undergrad this May from University of Delhi, India.
 gif
 
-For me weekdays be like:
-table n emos
+# For me weekdays be like:
 
+|  **Monday**     |             |
+|  **Tuesday**    |             |
+|  **Wednesday**  |             |
+|  **Thursday**   |             |
+|  **Friday**     |             |
 
-
-
-and weekends 
+# And weekends are all about:
 
 - Studies
 
-- netflix
+- Laundry
 
-+ grocerry shopping
++ Grocery shopping
 
-+ laundry
++ Netflix
 
 ##**Link it**
 
