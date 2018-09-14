@@ -18,7 +18,7 @@ gif
 
 ## My Mantra in Life
 photo
-![alt text]()
+![www.google.com](https://goo.gl/images/bWA6AU)
 
 
 
