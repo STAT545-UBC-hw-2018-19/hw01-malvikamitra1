@@ -12,15 +12,15 @@ I am a first year graduate student at the **Department of Statistics**.
 Completed my undergrad this May from University of Delhi, India.
 gif
 
-# For me weekdays be like:
+# Weekday moods be like:
 
-|    **Item**    | **Status** |
-|----------------|------------|
-| **Monday**     | :thumbsup: |
-| **Tuesday**    | :bowtie:   |
-| **Wednesday**  | :octocat:  |
-| **Thursday**   |            |
-| **Friday**     |            |
+|    **Item**    | **Status**    |
+|----------------|------------   |
+| **Monday**     | :grinning:    |
+| **Tuesday**    | :simple_smile:|
+| **Wednesday**  | :grin:        |
+| **Thursday**   |  :worried:    |
+| **Friday**     |  :tired_face: |
 
 # And weekends are all about:
 
