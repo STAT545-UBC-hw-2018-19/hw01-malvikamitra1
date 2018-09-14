@@ -14,8 +14,12 @@ For me weekdays be like:
 
 
 and weekends consists of:
+
 -Studies
+
 -netflix
--grocerry shopping
-laundry
+
++grocerry shopping
+
++laundry
 
