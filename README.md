@@ -5,7 +5,7 @@
 I am Malvika Mitra.
 
 For starters I believe in 
-![Alt Text](https://www.brainyquote.com/topics/motivational)
+![alt text](https://www.brainyquote.com/topics/motivational)
 
 I am a first year graduate student at the **Department of Statistics**.
 
