@@ -18,7 +18,7 @@ gif
 
 ## My Mantra in Life
 photo
-![images.google.com](https://goo.gl/images/bWA6AU)
+![alt text]()
 
 
 
@@ -56,20 +56,20 @@ photo
 [STAT545 Main Page](http://stat545.com/)
 
 ```R
-whatsyour <- function(x) {
-    # Determines whether your function is Conjunction or Junction based on
+number <- function(x) {
+    # Determines whether your function is odd or even
     # arbitrary criteria
     #
     # Args:
-    #   x: A number of some sort. Or not, that works too (We're not picky)
+    #   x: Any number of your choice.
     #
     # Returns:
     #   The truth.
-    if(x > 1) {
-        print('Conjunction')
+    if(x % 2== 0) {
+        print('Even')
     }
     else {
-        print('Junction')
+        print('Odd')
     }
 }
 
