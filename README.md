@@ -13,17 +13,6 @@ Completed my undergrad this May from University of Delhi, India.
 gif
 
 # For me weekdays be like:
----------------------------------
-|  **Monday**     |              |
----------------------------------
-|  **Tuesday**    |              |
----------------------------------
-|  **Wednesday**  |              |
----------------------------------
-|  **Thursday**   |              |
----------------------------------
-|  **Friday**     |              |
----------------------------------
 
 |    **Item**    | **Status** |
 |----------------|------------|
@@ -31,6 +20,7 @@ gif
 | **Tuesday**    | :bowtie:   |
 | **Wednesday**  | :octocat:  |
 | **Thursday**   |            |
+| **Friday**     |            |
 
 # And weekends are all about:
 
