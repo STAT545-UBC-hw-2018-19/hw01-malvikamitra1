@@ -4,13 +4,15 @@
 
 I am  **Malvika Mitra**.
 
-# My Mantra in Life
-![alt text]()
-
 I am a first year graduate student at the **Department of Statistics**.
 
 Completed my undergrad this May from University of Delhi, India.
 gif
+
+# My Mantra in Life
+![alt text]()
+
+
 
 # Weekday moods be like:
 
