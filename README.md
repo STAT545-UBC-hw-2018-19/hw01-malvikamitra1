@@ -8,7 +8,7 @@ I am a first year graduate student at the **Department of Statistics**.
 
 Completed my undergrad this May from University of Delhi, India.
 
-![](https://i.imgur.com/zNssDtS.gif)
+![](https://imgur.com/gallery/99Ps2kE)
 
 # My Mantra in Life
 ![alt text](https://imgs.xkcd.com/comics/stove_ownership.png )
