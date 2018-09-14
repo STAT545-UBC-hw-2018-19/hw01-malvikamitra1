@@ -17,8 +17,8 @@ gif
 |    **Item**    | **Status**    |
 |----------------|------------   |
 | **Monday**     | :grinning:    |
-| **Tuesday**    |:simple_smile: |
-| **Wednesday**  | :grin:        |
+| **Tuesday**    | grin:         |
+| **Wednesday**  |  :grimacing:  |
 | **Thursday**   |  :worried:    |
 | **Friday**     |  :tired_face: |
 
