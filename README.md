@@ -22,7 +22,7 @@ photo
 
 
 
-## Weekday moods be like:
+## My weekday moods be like:
 
 |    **Item**    | **Status**    |
 |----------------|------------   |
@@ -48,7 +48,7 @@ photo
  
      3.Bread and Meat
 
-+ Netflix
+ + Netflix
 
 
 ## **Link it**
