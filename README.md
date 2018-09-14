@@ -11,7 +11,7 @@ Completed my undergrad this May from University of Delhi, India.
 ![](https://i.imgur.com/zNssDtS.gif)
 
 # My Mantra in Life
-![alt text](https://imgur.com/t/motivational_quotes/jMr53QF)
+![alt text](https://imgs.xkcd.com/comics/stove_ownership.png )
 
 
 
