@@ -2,7 +2,7 @@
 
 **Hey there** 
 
-I am ## ** *Malvika Mitra** ##.
+I am  ** *Malvika Mitra**.
 
 # My Mantra in Life
 ![alt text](15369015173045416817657701370132.jpg)
@@ -30,11 +30,11 @@ gif
 
 + Grocery shopping
  
- 1.Veggies
+     1.Veggies
  
- 2.Fruits
+      2.Fruits
  
- 3.Bread and Meat
+        3.Bread and Meat
 
 + Netflix
 
