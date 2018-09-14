@@ -17,7 +17,8 @@ gif
 ![]()
 
 ## My Mantra in Life
-![alt text](https://goo.gl/images/bWA6AU)
+photo
+![alt text]()
 
 
 
@@ -53,6 +54,26 @@ gif
 ## **Link it**
 
 [STAT545 Main Page](http://stat545.com/)
+
+```R
+whatsyour <- function(x) {
+    # Determines whether your function is Conjunction or Junction based on
+    # arbitrary criteria
+    #
+    # Args:
+    #   x: A number of some sort. Or not, that works too (We're not picky)
+    #
+    # Returns:
+    #   The truth.
+    if(x > 1) {
+        print('Conjunction')
+    }
+    else {
+        print('Junction')
+    }
+}
+
+```
 
 
 
