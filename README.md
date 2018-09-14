@@ -7,11 +7,12 @@ I am  **Malvika Mitra**.
 I am a first year graduate student at the **Department of Statistics**.
 
 Completed my undergrad this May from University of Delhi, India.
-
-![](https://imgur.com/gallery/99Ps2kE)
+gif
+![]()
 
 # My Mantra in Life
-![alt text](https://imgs.xkcd.com/comics/stove_ownership.png )
+photo
+![alt text]()
 
 
 
