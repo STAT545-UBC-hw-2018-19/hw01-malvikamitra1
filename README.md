@@ -54,7 +54,7 @@ Completed my undergrad this May from University of Delhi, India.
 
 [STAT545 Main Page](http://stat545.com/)
 
-##  **My coding skills **
+##  **My coding skills**
 
 I have used R to develope a function that would determine whether the number entered is odd or even. 
 
