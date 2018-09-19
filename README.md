@@ -2,7 +2,7 @@
 
 A brief introduction about me.
 
-A R markdown exploration.
+A R markdown exploration of the package Gapminder using some basic functions in R.
 
 ## *All About Meee*
 
